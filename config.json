@@ -1,0 +1,11 @@
+{
+  "archive_folders": [
+    "D:\\Archive",
+    "\\\\192.168.1.100\\MediaArchive\\RAR"
+  ],
+  "report_folder": "C:\\ArchiveCheckReports",
+  "seven_zip_path": "C:\\Program Files\\7-Zip\\7z.exe",
+  "extensions": [".rar", ".zip"],
+  "recursive": true,
+  "timeout_seconds_per_file": 3600
+}
